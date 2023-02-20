@@ -1,6 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![GitHub](https://github.com/realbaymayan/kodluyoruzilkrepo/blob/main/figures/github.png)
 
 ## Installation
 ---
